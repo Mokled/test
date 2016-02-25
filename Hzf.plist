@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://120.27.31.43/Hzf2.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>url</key>
+                   <string>http://udid.80wn.com/AppIconqf.png</string>
+               </dict>
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.tencent.xin.testmoabcdefghijklmnZF2</string>
+               <key>bundle-version</key>
+               <string>6.3.9.18</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>售后微信duokai008</string>
+               <key>title</key>
+               <string>微信转发2</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
